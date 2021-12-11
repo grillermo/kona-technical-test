@@ -1,0 +1,19 @@
+digraph RGL__DirectedAdjacencyGraph {
+    uno [
+        fontsize = 8,
+        label = uno
+    ]
+
+    dos [
+        fontsize = 8,
+        label = dos
+    ]
+
+    uno -> dos [
+        fontsize = 8
+    ]
+
+    dos -> uno [
+        fontsize = 8
+    ]
+}
